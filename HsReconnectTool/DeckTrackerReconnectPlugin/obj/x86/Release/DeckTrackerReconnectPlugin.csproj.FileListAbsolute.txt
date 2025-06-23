@@ -1,0 +1,14 @@
+C:\Users\TOTDe\Desktop\HsReconnectTool-2.0\HsReconnectTool\DeckTrackerReconnectPlugin\bin\x86\Release\DeckTrackerReconnectPlugin.dll
+C:\Users\TOTDe\Desktop\HsReconnectTool-2.0\HsReconnectTool\DeckTrackerReconnectPlugin\bin\x86\Release\DeckTrackerReconnectPlugin.pdb
+C:\Users\TOTDe\Desktop\HsReconnectTool-2.0\HsReconnectTool\DeckTrackerReconnectPlugin\bin\x86\Release\Hearthstone Deck Tracker.exe
+C:\Users\TOTDe\Desktop\HsReconnectTool-2.0\HsReconnectTool\DeckTrackerReconnectPlugin\bin\x86\Release\UtilLib.dll
+C:\Users\TOTDe\Desktop\HsReconnectTool-2.0\HsReconnectTool\DeckTrackerReconnectPlugin\bin\x86\Release\WindowsFirewallHelper.dll
+C:\Users\TOTDe\Desktop\HsReconnectTool-2.0\HsReconnectTool\DeckTrackerReconnectPlugin\bin\x86\Release\UtilLib.pdb
+C:\Users\TOTDe\Desktop\HsReconnectTool-2.0\HsReconnectTool\DeckTrackerReconnectPlugin\bin\x86\Release\WindowsFirewallHelper.xml
+C:\Users\TOTDe\Desktop\HsReconnectTool-2.0\HsReconnectTool\DeckTrackerReconnectPlugin\obj\x86\Release\DeckTrackerReconnectPlugin.csproj.AssemblyReference.cache
+C:\Users\TOTDe\Desktop\HsReconnectTool-2.0\HsReconnectTool\DeckTrackerReconnectPlugin\obj\x86\Release\HsReconnectTool.FloatReconnectButton.resources
+C:\Users\TOTDe\Desktop\HsReconnectTool-2.0\HsReconnectTool\DeckTrackerReconnectPlugin\obj\x86\Release\DeckTrackerReconnectPlugin.csproj.GenerateResource.cache
+C:\Users\TOTDe\Desktop\HsReconnectTool-2.0\HsReconnectTool\DeckTrackerReconnectPlugin\obj\x86\Release\DeckTrackerReconnectPlugin.csproj.CoreCompileInputs.cache
+C:\Users\TOTDe\Desktop\HsReconnectTool-2.0\HsReconnectTool\DeckTrackerReconnectPlugin\obj\x86\Release\DeckTrac.1D68015E.Up2Date
+C:\Users\TOTDe\Desktop\HsReconnectTool-2.0\HsReconnectTool\DeckTrackerReconnectPlugin\obj\x86\Release\DeckTrackerReconnectPlugin.dll
+C:\Users\TOTDe\Desktop\HsReconnectTool-2.0\HsReconnectTool\DeckTrackerReconnectPlugin\obj\x86\Release\DeckTrackerReconnectPlugin.pdb

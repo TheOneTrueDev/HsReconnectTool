@@ -9,13 +9,13 @@ namespace DeckTrackerReconnectPlugin
     {
         PluginImpl plugin;
 
-        public string Name => "ReconnectPlugin";
+        public string Name => "RecunnectPlugin";
 
         public string Description => "This plugin allows you to disconnect during the game.";
 
         public string ButtonText => "None";
 
-        public string Author => "Vaiz";
+        public string Author => "Made by: Vaiz - Patched by: TheOneTrueDev";
 
         public Version Version => Version.Parse("2.0.0");
 
