@@ -7,6 +7,5 @@ Latest release: https://github.com/Vaiz/HsReconnectTool/releases/latest
 
 
 # Screenshots
-<p align="center"><img src="/images/v1.1.png" alt="v1.1" width="300"/></p>
 <p align="center"><img src="/images/floating_button.jpg" alt="floating" width="600"/></p>
 <p align="center"><img src="/images/reconnect.jpg" alt="reconnecting" width="600"/></p>
